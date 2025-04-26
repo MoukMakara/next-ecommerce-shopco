@@ -1,8 +1,9 @@
 ## Demo
 
-Check out the live demo: [Shopco Demo](https://next-ecommerce-shopco.vercel.app/)
+Check out the live demo: [Shopco Demo](https://next-ecommerce-shopco-black.vercel.app/)
 
 ## UX/UI
+
 Check out the UX/UI: [Shopco UX/UI](https://www.figma.com/design/ulAQKb6cQFCdGcnusIFjUy/E-commerce-Website-Template--Freebie---Community-?node-id=20-2&t=ZCZRJ9AIDLDMzcOK-0)
 
 ## Installation
@@ -12,7 +13,7 @@ To get started with Shopco locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/mohammadoftadeh/next-ecommerce-shopco.git
+   git clone https://github.com/MoukMakara/next-ecommerce-shopco.git
    cd next-ecommerce-shopco
    ```
 
